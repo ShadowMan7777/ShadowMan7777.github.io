@@ -1,0 +1,33 @@
+h2{
+    
+    padding: 0px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    width: 1200px;
+    height: 70px;
+}
+body {
+    background-color:#3f3f3f;
+    color: white;
+}
+
+body {
+    background-color:#3f3f3f;
+    color: white;
+}
+
+p {
+    text-align: center;
+}
+
+ul{color: white;
+
+}
+
+
+a{color: white;}
